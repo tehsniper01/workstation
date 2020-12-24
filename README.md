@@ -10,3 +10,5 @@ Install instructions
 4. Run an npm install to pull down required modules
 5. Make sure MongoDB is running
 6. Run an npm start to start the project up
+
+Small edit to test commit
